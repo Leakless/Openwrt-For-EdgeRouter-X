@@ -1,4 +1,4 @@
-# Openwrt for EdgeRouter-X
+# Openwrt for Ubiquiti EdgeRouter X
 
 编译自coolsnowwolf的lede，预编译进部分软件。在此对各个项目的作者表示衷心的感谢。
 
